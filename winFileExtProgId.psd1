@@ -10,7 +10,7 @@
    )
 
    FunctionsToExport  = @(
-      'show-winFileEXtAssociation',
+      'show-winFileExtAssociation',
        'set-winFileExtAssociation'
    )
 
